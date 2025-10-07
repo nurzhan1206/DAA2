@@ -1,21 +1,21 @@
 /
-├── docs
-│   └── alibek.pdf                # Report / documentation
-├── src
-│   ├── main
-│   │   └── java
-│   │       ├── algorithms
-│   │       │   └── MaxHeap.java          # Max Heap implementation
-│   │       ├── cli
-│   │       │   └── BenchmarkRunner.java  # Benchmark runner
-│   │       └── metrics                   # (optional) performance metrics
-│   └── test
-│       └── java
-│           └── algorithms
-│               └── MaxHeapTest.java      # Unit tests for MaxHeap
-├── pom.xml
-├── .gitignore
-└── README.md 
+├── docs   
+│   └── alibek.pdf                 
+├── src   
+│   ├── main  
+│   │   └── java  
+│   │       ├── algorithms  
+│   │       │   └── MaxHeap.java  
+│   │       ├── cli  
+│   │       │   └── BenchmarkRunner.java   
+│   │       └── metrics                    
+│   └── test  
+│       └── java  
+│           └── algorithms  
+│               └── MaxHeapTest.java        
+├── pom.xml  
+├── .gitignore  
+└── README.md   
 
 Clone the repository:
 git clone https://github.com/nurzhan1206/DAA2.git
